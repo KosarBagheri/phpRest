@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+        "symfony/symfony": "^6.4"
+    },
+    "require": {
+        "symfony/var-dumper": "*"
+    }
+}
